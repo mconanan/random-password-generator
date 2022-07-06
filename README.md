@@ -20,5 +20,6 @@ A function is used to show the function that generated the password in the text 
 
 A click-event is used to initialize the generate password function.
 
-URL to repository:
-URL to deployed webpage: 
+URL to repository: https://github.com/mconanan/random-password-generator
+URL to deployed webpage: https://mconanan.github.io/random-password-generator/
+
